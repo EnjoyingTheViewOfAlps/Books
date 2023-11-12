@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\books\books\bin\Debug\net7.0\books.exe
+C:\Users\пк\source\repos\books\books\bin\Debug\net7.0\books.deps.json
+C:\Users\пк\source\repos\books\books\bin\Debug\net7.0\books.runtimeconfig.json
+C:\Users\пк\source\repos\books\books\bin\Debug\net7.0\books.dll
+C:\Users\пк\source\repos\books\books\bin\Debug\net7.0\books.pdb
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.AssemblyInfo.cs
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.dll
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\refint\books.dll
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.pdb
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\books.genruntimeconfig.cache
+C:\Users\пк\source\repos\books\books\obj\Debug\net7.0\ref\books.dll
